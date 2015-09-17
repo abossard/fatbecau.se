@@ -35,13 +35,13 @@
     "yargs": "^3.18.0"
   },
   "devDependencies": {
-    "autoprefixer-core": "^5.2.1",
-    "autoprefixer-loader": "^2.0.0",
+    "autoprefixer-core": "^6.0.1",
+    "autoprefixer-loader": "^3.1.0",
     "babel-eslint": "^4.1.1",
     "babel-loader": "^5.0.0",
     "babel-plugin-react-transform": "^1.0.2",
     "babel-runtime": "^5.8.20",
-    "css-loader": "^0.17.0",
+    "css-loader": "^0.18.0",
     "eslint": "^1.0.0",
     "eslint-config-airbnb": "0.0.8",
     "eslint-loader": "^1.0.0",
